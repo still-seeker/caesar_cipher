@@ -1,4 +1,4 @@
-Code in this repo is about practice methods in ruby just to gain more familiar  
+Code in this repo is about practice methods in ruby just to get more familiar  
 It includes: cipher(which shifts characters in a string by a given factor)  
 -->substrings(this runs a dictionary check of all substrings of a string in a dictionary array)
 and returns a hash containing words and count  
